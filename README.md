@@ -13,9 +13,8 @@ Built with Next.js · TypeScript · Convex · Clerk · Tailwind CSS v4
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com)
 
-[**Live Demo →**](https://your-app.vercel.app) &nbsp;·&nbsp; [**Video Walkthrough →**](https://loom.com/your-video)
-
-![ChatFlow Screenshot](https://via.placeholder.com/900x500/0f0f13/6c63ff?text=ChatFlow+App+Screenshot)
+[**Live Demo →**](https://live-chat-app-six.vercel.app/)
+![ChatFlow Screenshot](public/image.png)
 
 </div>
 
